@@ -1,0 +1,15 @@
+
+{% extends 'base.html' %}
+
+{% block title %}
+   Detail About  {{mymember.fname}} {{mymember.lname}}
+{% endblock %}
+
+ {% block content %}
+ <div class="mycard">
+ <h1> {{mymember.fname}} {{mymember.lname}} </h1>
+ <p>Youtube : {{mymember.youtube}}</p>
+ <p>Email : {{mymember.email}}</p>
+ 
+ {% endblock %}
+

@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block title %}
+   Wrong address 
+{% endblock%}
+
+ {% block content %}
+ {{code}}
+ <table border='1'>
+  <tr>
+    <th>ID</th>
+    <th>FNAME</th>
+    <th>LNAME</th>
+  </tr>
+  {% for x in code %}
+  <tr>
+    <td>{{x.id}}</td>
+    <td>{{x.fname}}</td>
+    <td>{{x.lname}}</td>
+  </tr>
+
+  {% endfor %}
+</table>
+ {% endblock %} 
+
+ 
