@@ -1,7 +1,7 @@
 # django-01
 
-<br \>
-<br \>
+<br />
+<br />
 
 **simple website using django framework**
 
