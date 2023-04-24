@@ -46,7 +46,7 @@ Admin page
 
 
 
-<img width="55%" align="right" alt="Github" src="<div class="tenor-gif-embed" data-postid="24040429" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">Xero Code Sticker</a>from <a href="https://tenor.com/search/xero-stickers">Xero Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"/>
+<img width="55%" align="right" alt="Github" src=https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429/>
 
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at Amrita Vishwapeetham, Chennai Campus
