@@ -44,8 +44,8 @@ Admin page
 
 ![CODING CLUB - Personal - Microsoft​ Edge 08-03-2023 19_36_43](https://user-images.githubusercontent.com/106002920/223735304-79414ffa-c3be-4ccb-8589-84eecb67ffc2.png)
 
-
-![xero-code](https://user-images.githubusercontent.com/106002920/233944227-6043ee83-dd87-4304-a525-a29ad7327051.gif)
+<img width="55%" align="right" alt="Github" 
+![xero-code](https://user-images.githubusercontent.com/106002920/233944227-6043ee83-dd87-4304-a525-a29ad7327051.gif) />
 
 
 
